@@ -1,5 +1,5 @@
 # SQLProject
-##Project demonstrating competencies in SQL.
+## Project demonstrating competencies in SQL.
 
 #### Warning! If you are a current Udacity student please abide by the Udacity Honor Code and do not plagiarize my work. You are ultimately responsible for your learning and conduct and I am not responsible if you are dropped from the program due to plagiarism. This project was used for the Deforestation Exploration project for the first of two courses in the Udacity SQL Nanodegree program.
 

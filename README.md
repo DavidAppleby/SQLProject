@@ -1,4 +1,4 @@
-# SQLProject
+# SQL Project
 ## Project demonstrating competencies in SQL.
 
 #### Warning! If you are a current Udacity student please abide by the Udacity Honor Code and do not plagiarize my work. You are ultimately responsible for your learning and conduct and I am not responsible if you are dropped from the program due to plagiarism. 
